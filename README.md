@@ -1,4 +1,4 @@
-# 🍳 [BIOS] 🎯
+# 🍳 BIOS 🎯
 
 ---
 
@@ -62,11 +62,12 @@ npm install
 
 
 🚀 Run the App Locally
-bash
-Copy
-Edit
+```bash
+
 # Start the development server
+```bash
 npm start
+```
 The app should now be running at:
 ➡️ http://localhost:3000
 
@@ -132,3 +133,4 @@ Fathima Lubaba K.M – UI/UX Design, Tailwind Setup, Project Planning
 Hanna Shereef – React Development, Routing, API Integration, GitHub Repository
 
 🛠️ Made with ❤️ at TinkerHub Useless Projects
+
